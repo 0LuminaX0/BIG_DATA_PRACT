@@ -1,0 +1,1 @@
+print('Negrub Andrii, KN-1')
