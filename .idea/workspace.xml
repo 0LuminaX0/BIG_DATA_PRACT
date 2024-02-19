@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5cb8724-248b-4b86-853e-68227754d45a" name="Changes" comment="“Done practice #2" />
+    <list default="true" id="f5cb8724-248b-4b86-853e-68227754d45a" name="Changes" comment="Done practice #3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,6 +65,7 @@
       <workItem from="1706529350518" duration="856000" />
       <workItem from="1706532219106" duration="3159000" />
       <workItem from="1707152045558" duration="464000" />
+      <workItem from="1707750547281" duration="470000" />
     </task>
     <task id="LOCAL-00001" summary="1test">
       <created>1706540553867</created>
@@ -94,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1707152169661</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Done practice #3">
+      <created>1707750703527</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707750703527</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,7 +123,8 @@
     <MESSAGE value="1test" />
     <MESSAGE value="added gitignore" />
     <MESSAGE value="“Done practice #2" />
-    <option name="LAST_COMMIT_MESSAGE" value="“Done practice #2" />
+    <MESSAGE value="Done practice #3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done practice #3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonProject$main.coverage" NAME="main Coverage Results" MODIFIED="1706540499192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
