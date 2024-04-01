@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5cb8724-248b-4b86-853e-68227754d45a" name="Changes" comment="Done practice #8">
-      <change afterPath="$PROJECT_DIR$/Negrub_python_practice_9.ipynb" afterDir="false" />
+    <list default="true" id="f5cb8724-248b-4b86-853e-68227754d45a" name="Changes" comment="Done practice #9">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,13 +21,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Projects/PythonBigData/pythonProject&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/LUMiNAX/Documents/МПА/hw7",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Projects\pythonProject" />
@@ -82,7 +81,8 @@
       <workItem from="1709725849519" duration="40000" />
       <workItem from="1710170258988" duration="616000" />
       <workItem from="1710782217428" duration="195000" />
-      <workItem from="1711463159293" duration="76000" />
+      <workItem from="1711463159293" duration="748000" />
+      <workItem from="1711800405073" duration="64000" />
     </task>
     <task id="LOCAL-00001" summary="1test">
       <created>1706540553867</created>
@@ -147,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710782300584</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Done practice #9">
+      <created>1711463238983</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1711463238983</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,7 +180,8 @@
     <MESSAGE value="Done practice #5" />
     <MESSAGE value="Done practice #6" />
     <MESSAGE value="Done practice #8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done practice #8" />
+    <MESSAGE value="Done practice #9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done practice #9" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonProject$main.coverage" NAME="main Coverage Results" MODIFIED="1706540499192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
